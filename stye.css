@@ -41,6 +41,7 @@ body{
 
 .header .logo img{
     transform: rotate(180deg);
+    filter: invert(100%);
 }
 .header .logo p{
   font-size: 17px;
